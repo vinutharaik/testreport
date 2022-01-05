@@ -1,0 +1,53 @@
+PROJECT DOCUMENTATION
+
+
+1.project need
+2.Add some more content
+3.Edit
+4.final document
+5.correction
+
+
+
+problem
+1.no tracking
+2.no backup
+3.cannot work with multiple people
+4.centralized location
+5.access
+
+
+what us the version control system?
+software
+maitain different versionn of the source code
+
+
+
+types of version    control system?
+a.local version control system
+b.centralized version control ystem
+c.distributed version control system
+
+
+local version control system?
+a.it is present in my local machine
+b.DIFFEREN
+
+
+
+
+
+DISTRIBUTED SERVER
+
+1.
+
+
+
+
+Git commands
+git init
+git status
+git add <file>->adding one file
+git  add.  or git 
+
+git config
